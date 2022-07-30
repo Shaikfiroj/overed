@@ -1,0 +1,47 @@
+Inbuilt Column Transformations
+
+	Remove Columns / Remove Other Columns
+	Choose Columns, Go To Column
+	Name / Rename a Column
+	Reorder Columns or Sort Columns - NoOfDays
+	Column from Examples
+Order Date(Year), Customer ID (Text Before -), CustomerName(First 5 Chars)
+
+(GUI Options , Column from Examples, Custom Column)	
+	Add Column / Custom Column
+	Duplicate Column
+When you want Output in Same Column use any of the Options in Transform Tab
+When you want Output in the New Column use the Options in Add Column Tab
+	Split Columns  - Mostly we need to Split the Columns Based on Delimiters or Based on Number of Characters
+	Merge Columns
+	Pivot   - Rows to Columns  - Table Format Data to Pivot Format  - Number of Rows will Reduce
+              Unpivot - Columns to Rows - If You Want to Convert Pivot Format Data to Table Format - Number of Rows will Increase
+	Transpose   - Rows to Columns & Columns to Rows
+	Replace Values
+Any arthematic Operation with Null is NUll
+	Remove Empty
+
+++++++++++++++++++++++++++++++++++++++++++++
+
+
+In built Row Transformations
+
+	Header Row or Use First Row as Headers
+	Use Headers as First Row
+	Keep Top Rows - Whole Table
+	Keep Bottom Rows - Whole Table
+	Keep Range of Rows - Whole Table
+	Keep Errors - whole table or selected columns
+	Remove Errors - whole table or selected columns
+	Remove Blank Rows - Whole Table
+	Remove Empty - Down Arrow - Selected Column
+	Keep Duplicates - whole table or selected columns
+	Remove Duplicates - whole table or selected columns
+	Remove Top Rows - Whole Table
+	Remove Bottom Rows - Whole Table
+	Remove Alternative Rows  - Whole Table
+	Group Rows / Group By
+
+1. Few options will work on Complete Table 
+2. Few Options work on Complete Table as well as a specific Column
+
